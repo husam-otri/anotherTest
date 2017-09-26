@@ -1,0 +1,26 @@
+{
+  "result" : "Successss",
+  "token" : "",
+  "remember_me" : "لا شيء",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "برينت",
+    "last_name" : "Gracey",
+    "email" : "may@qordoba.com",
+    "name" : "برنت غراسي",
+    "avatar" : "Https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin على __scaled_256__ cropped__scaled_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "تسيطر اختبار ssOrg",
+      "role" : "صاحب"
+    }, {
+      "id" : "1002",
+      "name" : "اختبار دعوة 3scale المعهد",
+      "role" : "صاحب"
+    } ],
+    "timezone" : "المحيط الهادئ / نيوي",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
