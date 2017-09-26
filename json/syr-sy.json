@@ -1,22 +1,22 @@
 {
-  "result" : "successss",
+  "result" : "Successss",
   "token" : "",
-  "remember_me" : "null",
+  "remember_me" : "Null",
   "loggedUser" : {
     "id" : "1",
     "first_name" : "Brent",
     "last_name" : "Gracey",
     "email" : "may@qordoba.com",
     "name" : "Brent Gracey",
-    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a __scaled_256__ cropped__scaled_32.png",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a cropped__scaled_32.png cropped__scaled_32.png",
     "organizations" : [ {
       "id" : "2",
-      "name" : "Controlled Test ssOrg",
-      "role" : "owner"
+      "name" : "Controlled Test Org",
+      "role" : "Owner"
     }, {
       "id" : "1002",
-      "name" : "test 3scale api call",
-      "role" : "owner"
+      "name" : "Test 3scale api call",
+      "role" : "Owner"
     } ],
     "timezone" : "Pacific/Niue",
     "created_at" : "1420066800000",
