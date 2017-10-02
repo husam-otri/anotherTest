@@ -1,5 +1,5 @@
 {
-  "result" : "successs",
+  "result" : "succes",
   "token" : "",
   "remember_me" : null,
   "loggedUser" : {
@@ -18,7 +18,7 @@
       "name" : "test 3scale api call",
       "role" : "owner"
     } ],
-    "timezone" : "Pacific/Niue",
+    "timezone" : "Pacific/Niuee",
     "created_at" : 1420066800000,
     "phone_number" : "12345621",
     "last_online" : 1469609210000
