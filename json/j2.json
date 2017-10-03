@@ -1,5 +1,5 @@
 {
-  "result" : "successsss",
+  "result" : "successs",
   "token" : "",
   "remember_me" : null,
   "loggedUser" : {
@@ -15,8 +15,8 @@
       "role" : "owner"
     }, {
       "id" : 1002,
-      "name" : "test 3scale api call",
-      "role" : "owner"
+      "name" : "test gmail api call",
+      "role" : "admin"
     } ],
     "timezone" : "Pacific/Niue",
     "created_at" : 1420066800000,
