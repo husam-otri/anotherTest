@@ -1,0 +1,26 @@
+{
+  "result" : "نجاح",
+  "token" : "",
+  "remember_me" : "Null",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Testdsf",
+    "last_name" : "",
+    "email" : "",
+    "name" : "",
+    "avatar" : "",
+    "organizations" : [ {
+      "id" : "",
+      "name" : "",
+      "role" : ""
+    }, {
+      "id" : "",
+      "name" : "",
+      "role" : ""
+    } ],
+    "timezone" : "",
+    "created_at" : "",
+    "phone_number" : "",
+    "last_online" : ""
+  }
+}
