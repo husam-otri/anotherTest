@@ -1,26 +1,26 @@
 {
-  "result" : "",
+  "result" : "sdf",
   "token" : "",
   "loggedUser" : {
-    "id" : "",
-    "first_name" : "",
-    "last_name" : "",
-    "email" : "",
-    "name" : "",
-    "avatar" : "",
+    "id" : "1",
+    "first_name" : "برنت",
+    "last_name" : "Gracey",
+    "email" : "hussam@qordoba.com",
+    "name" : "fasdfsadf",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba؟32.png _ _scaled_ _admin a_ __ __",
     "organizations" : [ {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "2",
+      "name" : "تسيطر اختبار المؤسسة",
+      "role" : "مالك"
     }, {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "1002",
+      "name" : "asdfsadf",
+      "role" : "مالك"
     } ],
-    "timezone" : "",
-    "created_at" : "",
-    "phone_number" : "",
-    "last_online" : ""
+    "timezone" : "sdfasdfasdf",
+    "created_at" : "1.4200668E12",
+    "phone_number" : "12345621",
+    "last_online" : "1.46960921E12"
   },
   "remember_me" : null
 }
