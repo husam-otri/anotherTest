@@ -1,7 +1,7 @@
 {
-  "result" : "Successsss",
+  "result" : "Success",
   "token" : "",
-  "remember_me" : "Lskd",
+  "remember_me" : "remember me",
   "loggedUser" : {
     "id" : "1",
     "first_name" : "Brent",
