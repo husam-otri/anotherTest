@@ -1,0 +1,26 @@
+{
+  "result" : "başarı",
+  "token" : "jeton",
+  "remember_me" : "değere güncellemek",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Hüssam",
+    "last_name" : "Otri",
+    "email" : "hussam@qordoba.com",
+    "name" : "Hussam Otri",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__kırpılmış__ölçekli_32.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Kontrollü Test Projektörü",
+      "role" : "kullanici3"
+    }, {
+      "id" : "1002",
+      "name" : "test github api çağrısı",
+      "role" : "yönetim"
+    } ],
+    "timezone" : "Pasifik / Niue",
+    "created_at" : "1.4200668E12",
+    "phone_number" : "12345621",
+    "last_online" : "1.46960921E12"
+  }
+}
