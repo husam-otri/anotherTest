@@ -1,23 +1,23 @@
 {
-  "result" : "SUCCS",
-  "token" : "tt",
+  "result" : "success",
+  "token" : "token",
   "loggedUser" : {
     "id" : 1,
-    "first_name" : "fsdfsdfsdf",
-    "last_name" : "grean",
+    "first_name" : "Brent",
+    "last_name" : "Gracey",
     "email" : "may@qordoba.com",
-    "name" : "Hussam Otri",
-    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba _ _scaled_ _admin a_ __ __",
+    "name" : "Brent Gracey",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin a__scaled_256__cropped__scaled_32.png",
     "organizations" : [ {
       "id" : 2,
-      "name" : "Kontrollü Test Org",
-      "role" : "Propriétaire"
+      "name" : "Controlled Test Org",
+      "role" : "owner"
     }, {
       "id" : 1002,
-      "name" : 24532,
-      "role" : "Propriétaire"
+      "name" : "test 3scale api call",
+      "role" : "owner"
     } ],
-    "timezone" : "Pasifik / Niue",
+    "timezone" : "Pacific/Niue",
     "created_at" : 1420066800000,
     "phone_number" : 12345621,
     "last_online" : 1469609210000
