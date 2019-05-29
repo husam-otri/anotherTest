@@ -15,7 +15,7 @@
       "role" : "user3"
     }, {
       "id" : 1002,
-      "name" : "test github api call",
+      "name" : "test githubs api call",
       "role" : "admin"
     } ],
     "timezone" : "Pacific/Niue",
