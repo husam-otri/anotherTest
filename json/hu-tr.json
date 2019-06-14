@@ -1,6 +1,6 @@
 {
   "result" : "SUCCÈS",
-  "token" : "tt",
+  "token" : "token",
   "loggedUser" : {
     "id" : "1",
     "first_name" : "fsdfsdfsdf",
