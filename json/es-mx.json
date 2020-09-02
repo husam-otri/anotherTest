@@ -1,26 +1,26 @@
 {
-  "result" : "",
+  "result" : "Success",
   "token" : "",
-  "remember_me" : "",
+  "remember_me" : "rememeber me",
   "loggedUser" : {
-    "id" : "",
-    "first_name" : "",
-    "last_name" : "",
-    "email" : "",
-    "name" : "",
-    "avatar" : "",
+    "id" : "1",
+    "first_name" : "Brent",
+    "last_name" : "Lsdd",
+    "email" : "may@qordoba.com",
+    "name" : "Sdf",
+    "avatar" : "Sdfsdf scaled_86ef738-4a95-4087-ad44-fac14deb94ba_admin https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba_admin cropped__scaled_32.png cropped scaled_32.png cropped scaled_32.png cropped scaled_32.png",
     "organizations" : [ {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "2",
+      "name" : "nME",
+      "role" : "actor"
     }, {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "1002",
+      "name" : "Fsdff",
+      "role" : "Dfdsfsdf"
     } ],
-    "timezone" : "",
-    "created_at" : "",
-    "phone_number" : "",
-    "last_online" : ""
+    "timezone" : "Fsdfsf",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
   }
 }
