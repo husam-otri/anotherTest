@@ -1,26 +1,26 @@
 {
-  "result" : "",
-  "token" : "",
+  "result" : "SUCCÈS",
+  "token" : "tt",
   "loggedUser" : {
-    "id" : "",
-    "first_name" : "",
-    "last_name" : "",
-    "email" : "",
-    "name" : "",
-    "avatar" : "",
+    "id" : "1",
+    "first_name" : "fsdfsdfsdf",
+    "last_name" : "grean",
+    "email" : "may@qordoba.com",
+    "name" : "Hussam Otri",
+    "avatar" : "https://storage.googleapis.com/dev-env-storage/c86ef738-4a95-4087-ad44-fac14deb94ba _ _scaled_ _admin a_ __ __",
     "organizations" : [ {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "2",
+      "name" : "Kontrollü Test Org",
+      "role" : "Propriétaire"
     }, {
-      "id" : "",
-      "name" : "",
-      "role" : ""
+      "id" : "1002",
+      "name" : "24532",
+      "role" : "Propriétaire"
     } ],
-    "timezone" : "",
-    "created_at" : "",
-    "phone_number" : "",
-    "last_online" : ""
+    "timezone" : "Pasifik / Niue",
+    "created_at" : "1.4200668E12",
+    "phone_number" : "12345621",
+    "last_online" : "1.46960921E12"
   },
   "remember_me" : null
 }
