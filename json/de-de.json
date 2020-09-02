@@ -1,26 +1,26 @@
 {
   "result" : "",
   "token" : "",
+  "remember_me" : null,
   "loggedUser" : {
-    "id" : "",
+    "id" : 1,
     "first_name" : "",
     "last_name" : "",
     "email" : "",
     "name" : "",
     "avatar" : "",
     "organizations" : [ {
-      "id" : "",
+      "id" : 2,
       "name" : "",
       "role" : ""
     }, {
-      "id" : "",
+      "id" : 1002,
       "name" : "",
       "role" : ""
     } ],
     "timezone" : "",
-    "created_at" : "",
+    "created_at" : 1420066800000,
     "phone_number" : "",
-    "last_online" : ""
-  },
-  "remember_me" : null
+    "last_online" : 1469609210000
+  }
 }
